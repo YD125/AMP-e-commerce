@@ -1,7 +1,6 @@
-# e-commerce
-First test in e-commerce full project 
+# Trilha DevOps da 4Linux
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
-[![Build Status](https://travis-ci.org/YD125/e-commerce.svg?branch=master)](https://travis-ci.org/YD125/e-commerce)
+[![Build Status](https://travis-ci.org/YD125/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.org/YD125/DevOpsLab-HelloWorld)
 
-## Aplicação criada para criar e-commerce website com google AMP
+## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
