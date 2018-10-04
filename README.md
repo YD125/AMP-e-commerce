@@ -1,6 +1,5 @@
-# Trilha DevOps da 4Linux
+# E-commerce test
 
-<!-- Altere a Flag abaixo com sua URL do Travis -->
-[![Build Status](https://travis-ci.org/YD125/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.org/YD125/DevOpsLab-HelloWorld)
+<!-- URL do Travis -->
+[![Build Status](https://travis-ci.org/YD125/e-commerce.svg?branch=master)](https://travis-ci.org/YD125/e-commerce)
 
-## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
